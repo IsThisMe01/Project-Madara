@@ -5,6 +5,7 @@ local games = {
     [126884695634066] = "https://raw.githubusercontent.com/IsThisMe01/Project-Madara/refs/heads/main/growAGarden.lua",
     [3956818381] = "https://raw.githubusercontent.com/IsThisMe01/Project-Madara/refs/heads/main/ninjaLegends.lua",
     [3101667897] = "https://raw.githubusercontent.com/IsThisMe01/Project-Madara/refs/heads/main/LegendsOfSpeed.lua",
+    [7305309231] = "https://raw.githubusercontent.com/IsThisMe01/Project-Madara/refs/heads/main/TaxiBoss.lua",
 
 }
 
