@@ -10,7 +10,7 @@ local games = {
     [90462358603255] = "https://raw.githubusercontent.com/IsThisMe01/Project-Madara/refs/heads/main/AnimeEternal.lua",
     [127742093697776] = "https://raw.githubusercontent.com/IsThisMe01/Project-Madara/refs/heads/main/pvbr.lua",
     [9476339275] = "https://raw.githubusercontent.com/IsThisMe01/Project-Madara/refs/heads/main/DoubleDown.lua",
-
+    [12529881925] = "https://raw.githubusercontent.com/IsThisMe01/Project-Madara/refs/heads/main/DoubleDown.lua",
 }
 
 return games
