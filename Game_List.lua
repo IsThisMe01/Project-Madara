@@ -11,6 +11,7 @@ local games = {
     [127742093697776] = "https://raw.githubusercontent.com/IsThisMe01/Project-Madara/refs/heads/main/pvbr.lua",
     [9476339275] = "https://raw.githubusercontent.com/IsThisMe01/Project-Madara/refs/heads/main/DoubleDown.lua",
     [12529881925] = "https://raw.githubusercontent.com/IsThisMe01/Project-Madara/refs/heads/main/DoubleDown.lua",
+    [118614517739521] = "https://raw.githubusercontent.com/IsThisMe01/Project-Madara/refs/heads/main/BlindShot.lua",
 }
 
 return games
